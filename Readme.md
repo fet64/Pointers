@@ -8,3 +8,11 @@ $ mkdir debug
 $ cd debug
 $ cmake ..
 ```
+
+To run the program:
+```
+$ ./test
+```
+
+
+

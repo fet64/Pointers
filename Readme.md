@@ -1,6 +1,6 @@
 # Just a small c pointer example
 
-I use cmake to compile my c code...
+Compile how ever you want but I use cmake (version 3.27) and c version 23...
 
 Compile:
 ```
